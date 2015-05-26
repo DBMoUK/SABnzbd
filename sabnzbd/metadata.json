@@ -1,0 +1,16 @@
+{
+  "name": "dbmo-sabnzbd",
+  "version": "0.1.0",
+  "author": "DBMoUK",
+  "summary": "Installs and configures SABnzbd Usenet News Reader.",
+  "license": "Apache 2.0",
+  "source": "git@github.com:DBMoUK/SABnzbd.git",
+  "project_page": "github.com:DBMoUK/SABnzbd.git",
+  "issues_url": "github.com:DBMoUK/SABnzbd.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+    {"name":"nanliu-staging","version_requirement":">= 1.0.0"}
+    {"name":"stankevich-python","version_requirement":">= 1.9.4"}
+]
+}
+
